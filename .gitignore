@@ -1,0 +1,11 @@
+# Ignorar dependencias
+node_modules/
+cliente/node_modules/
+servidor/node_modules/
+
+# Ignorar variables de entorno (claves secretas)
+.env
+
+# Ignorar archivos de compilación de Angular
+/dist
+/tmp
